@@ -1,0 +1,9 @@
+div {
+    display: inline-table;
+    align-content: center;
+    margin: 10px;
+    background-color: aqua;
+}
+.Nav {
+    background-color: black;
+}
